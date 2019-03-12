@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="hello">hello</string>
+    <string name="click_me">click me</string>
+
+    <string-array name="currency_array">
+        <item>DKK</item>
+        <item>GPB</item>
+        <item>EUR</item>
+    </string-array>
+
+</resources>
