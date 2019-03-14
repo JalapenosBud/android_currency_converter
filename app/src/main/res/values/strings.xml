@@ -2,6 +2,10 @@
     <string name="app_name">Currency</string>
     <string name="hello">hello</string>
     <string name="click_me">click me</string>
+    <string name="calculate">calculate</string>
+    <string name="right_result">right_result</string>
+    <string name="left_result">left_result</string>
+    <string name="toast_text">toast_text</string>
 
     <string-array name="currency_array">
         <item>DKK</item>
